@@ -1,6 +1,11 @@
 *{
     font-size: 10pt;
 }
+.tp{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
 .menu{
     border: 1px solid black;
     padding: 5px;
