@@ -1,0 +1,31 @@
+*{
+    font-size: 10pt;
+}
+.menu{
+    border: 1px solid black;
+    padding: 5px;
+    font-weight: bold;
+}
+.cor{
+    color: green;
+}
+
+body{
+    font-family: 'Cascadia Code', 'Cascadia Mono', Consolas, monospace;
+    font-size: 10pt;
+}
+.menu{
+    padding: 10px;
+    font-size: 8pt;
+}
+table{
+    margin: auto;
+    border: 1px solid lightblue;
+}
+img{
+    padding-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
